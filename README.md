@@ -1,5 +1,21 @@
 # OLA Ride Booking Data Analysis
 
+## 📊 Ola Dashboard Preview
+<table>
+  <tr>
+    <td><img src="./ola%20Dashboard/Screenshot (84).png" width="100%" alt="Page 1"></td>
+    <td><img src="./ola%20Dashboard/Screenshot (85).png" width="100%" alt="Page 2"></td>
+    <td><img src="./ola%20Dashboard/Screenshot (86).png" width="100%" alt="Page 3"></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td width="33%"><img src="./ola%20Dashboard/Screenshot (87).png" width="100%" alt="Page 4"></td>
+    <td width="33%"><img src="./ola%20Dashboard/Screenshot (88).png" width="100%" alt="Page 5"></td>
+    <td width="33%" style="border: none;"></td> <!-- यह बॉक्स खाली रहेगा ताकि नीचे की 2 इमेजेस सही साइज में रहें -->
+  </tr>
+</table>
+
 ## Project Overview
 
 This project focuses on analyzing OLA ride booking data using Python, SQL, and Power BI.
